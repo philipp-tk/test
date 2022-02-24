@@ -1,0 +1,8 @@
+= Demo Documentation Component A
+:url-project: https://antora.org
+:url-docs: https://docs.antora.org
+:url-org: https://gitlab.com/antora
+:url-group: {url-org}/demo
+:url-demo-site: https://antora.gitlab.io/demo/docs-site
+:url-site-readme: {url-group}/docs-site/blob/master/README.adoc
+:url-opendevise: https://opendevise.com
